@@ -1,16 +1,107 @@
 [
   {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "GenAI used\nChatGPT was used for the entire assessment. It is the one I am most familiar in and is competent enough for tasks like these.\n\n\nUsage\nIt helped me to generate the templates which I used to then fill up with the relevant necessary information. I leveraged it to generate for me the perfect Nasi Ayam recipe which I then added on with my own personal anecdotal experiences to spice up the reading experience.\n\n\nBenefits\nIt can quickly deliver personalised content in a readable manner and also generate simple blocks of code that can be copied and pasted into projects seamlessly.\n\n\nChallenges\nWhen working on a complex project, GenAI can fail to understand all the nuances of the code and may not deliver working solutions. During some debugging sessions especially, it may just repeat a previously generated message over and over again with no change - not helpful at all.\n\n\nFinal Thoughts\nIt is important to be specific and give as much information to the GenAI in use as possible, as only then will they be able to deliver content that is personalised to you. If you are vague and think that it will solve all your problems magically just with a simple prompt, it won’t be useful."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal_website",
+    "title": "About Me",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my personal website. I’m passionate about learning, creating, and sharing ideas. Whether I’m exploring data, writing about technology, or building something new, I love bringing curiosity and creativity into everything I do.\n\n\n\n\nPrince Azim of Brunei (Not Me)"
+  },
+  {
+    "objectID": "index.html#hello-im-azim",
+    "href": "index.html#hello-im-azim",
+    "title": "About Me",
+    "section": "",
+    "text": "Welcome to my personal website. I’m passionate about learning, creating, and sharing ideas. Whether I’m exploring data, writing about technology, or building something new, I love bringing curiosity and creativity into everything I do.\n\n\n\n\nPrince Azim of Brunei (Not Me)"
+  },
+  {
+    "objectID": "index.html#what-im-into",
+    "href": "index.html#what-im-into",
+    "title": "About Me",
+    "section": "🌱 What I’m Into",
+    "text": "🌱 What I’m Into\n\n📊 Data science, visualization, and storytelling\n🧠 Artificial intelligence & how it impacts education\n🛠 Building projects with Python, R, or JavaScript\n✍️ Writing about what I learn along the way"
+  },
+  {
+    "objectID": "index.html#random-facts-about-me",
+    "href": "index.html#random-facts-about-me",
+    "title": "About Me",
+    "section": "🎲 Random Facts About Me",
+    "text": "🎲 Random Facts About Me\n\nI love salty snacks more than sweets 🍿🧂\nI’m learning C programming for the first time 🔧\nI once binge-watched the Titanic movie just to analyze survival data 🎥\nI’m always trying to figure out how things work, even if it means breaking them first 🤓\nI have amber eyes — yes, really! 🐯"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "About Me",
+    "section": "📬 Get in Touch",
+    "text": "📬 Get in Touch\nFeel free to connect or collaborate — I’m always open to ideas and conversations.\n\n📧 Email: azim@google.com\n💼 LinkedIn: Azim\n📂 GitHub: azim-git"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "OOP Project",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This project was a collaborative effort undertaken by my group and me during either Trimester 1 or Trimester 2 — I must admit the exact timing escapes me at the moment. It was a well-executed and thoughtfully developed piece of work that we were genuinely proud of. Despite our strong effort and the quality of the final outcome, the project ultimately received a grade of B. While we were slightly disappointed by the result, we still regard it as a valuable learning experience that demonstrated our teamwork and commitment."
+  },
+  {
+    "objectID": "about.html#whac-a-mole",
+    "href": "about.html#whac-a-mole",
+    "title": "OOP Project",
+    "section": "",
+    "text": "This project was a collaborative effort undertaken by my group and me during either Trimester 1 or Trimester 2 — I must admit the exact timing escapes me at the moment. It was a well-executed and thoughtfully developed piece of work that we were genuinely proud of. Despite our strong effort and the quality of the final outcome, the project ultimately received a grade of B. While we were slightly disappointed by the result, we still regard it as a valuable learning experience that demonstrated our teamwork and commitment."
+  },
+  {
+    "objectID": "about.html#video-presentation",
+    "href": "about.html#video-presentation",
+    "title": "OOP Project",
+    "section": "Video Presentation",
+    "text": "Video Presentation"
+  },
+  {
+    "objectID": "recipe.html",
+    "href": "recipe.html",
+    "title": "Nasi Ayam",
+    "section": "",
+    "text": "Nasi Ayam, or Malay-style chicken rice, is more than just a meal — it’s a nostalgic dish wrapped in steam and the warmth of home. I remember walking into my grandmother’s kitchen on lazy Sunday afternoons, the air thick with the aroma of garlic, ginger, and pandan leaves. She never measured anything — just instincts and years of love guiding her hands.\nThis recipe is a humble tribute to those weekends and all the times we gathered around the table, fighting over who got the drumstick."
+  },
+  {
+    "objectID": "recipe.html#a-comfort-dish-close-to-my-heart",
+    "href": "recipe.html#a-comfort-dish-close-to-my-heart",
+    "title": "Nasi Ayam",
+    "section": "",
+    "text": "Nasi Ayam, or Malay-style chicken rice, is more than just a meal — it’s a nostalgic dish wrapped in steam and the warmth of home. I remember walking into my grandmother’s kitchen on lazy Sunday afternoons, the air thick with the aroma of garlic, ginger, and pandan leaves. She never measured anything — just instincts and years of love guiding her hands.\nThis recipe is a humble tribute to those weekends and all the times we gathered around the table, fighting over who got the drumstick."
+  },
+  {
+    "objectID": "recipe.html#ingredients",
+    "href": "recipe.html#ingredients",
+    "title": "Nasi Ayam",
+    "section": "📝 Ingredients",
+    "text": "📝 Ingredients\n\n🍗 For the Chicken\n\n1 whole chicken (about 1.5kg)\n3 slices of ginger\n3 cloves garlic\n1 stalk spring onion\nSalt, to taste\n\n\n\n🍚 For the Rice\n\n2 cups jasmine rice (washed and drained)\n3 cloves garlic (minced)\n2 slices ginger\n2 pandan leaves, tied into a knot\n2 tbsp chicken fat or vegetable oil\n2.5 cups chicken broth (from boiling the chicken)\nSalt, to taste\n\n\n\n🍲 For the Soup\n\nLeftover chicken stock\nA few slices of carrot\nSalt and pepper, to taste\nFried shallots and spring onions (for garnish)\n\n\n\n🌶️ For the Chili Sauce\n\n4 red chilies\n3 cloves garlic\n1-inch ginger\n2 tbsp chicken broth\n1 tsp sugar\n1 tbsp lime juice\nSalt, to taste"
+  },
+  {
+    "objectID": "recipe.html#instructions",
+    "href": "recipe.html#instructions",
+    "title": "Nasi Ayam",
+    "section": "🍴 Instructions",
+    "text": "🍴 Instructions\n\n1. Boil the Chicken\n\nIn a large pot, bring water to a boil.\nAdd ginger slices, garlic, and spring onion.\nGently lower the chicken in and boil for about 30–40 minutes until fully cooked.\nRemove the chicken, brush it with sesame oil, and set aside.\nReserve the broth — you’ll use it for both the rice and soup.\n\n\nAnecdote: When I made this in university for the first time, I forgot to reserve the broth and poured it out. I had to redo the chicken all over again — I never made that mistake again.\n\n\n\n\n2. Cook the Rice\n\nIn a pot or rice cooker, heat the chicken fat or oil.\nSauté garlic and ginger until fragrant.\nAdd pandan leaves and drained rice. Stir for a minute.\nAdd the chicken broth and a pinch of salt.\nCook until the rice is fluffy and fragrant.\n\n\nPro tip: My auntie swears by adding a tiny splash of evaporated milk into the rice to make it creamier — I still do this secretly.\n\n\n\n\n3. Make the Soup\n\nBring the reserved broth to a gentle simmer.\nAdd carrots, salt, and pepper.\nLet it boil until carrots are tender.\nTop with fried shallots and spring onions.\n\n\n\n\n4. Blend the Chili Sauce\n\nBlend all chili sauce ingredients until smooth.\nAdjust with lime juice or broth depending on how tangy or runny you want it.\n\n\nMemory lane: My cousin once used bird’s eye chilies instead — we all cried halfway through dinner but couldn’t stop eating."
+  },
+  {
+    "objectID": "recipe.html#serving-suggestions",
+    "href": "recipe.html#serving-suggestions",
+    "title": "Nasi Ayam",
+    "section": "🍽️ Serving Suggestions",
+    "text": "🍽️ Serving Suggestions\n\nPlate the rice using a small bowl mold.\nSlice the chicken and arrange neatly beside the rice.\nDrizzle light soy sauce over the chicken.\nServe with the soup, chili sauce, and fresh cucumber slices."
+  },
+  {
+    "objectID": "recipe.html#final-thoughts",
+    "href": "recipe.html#final-thoughts",
+    "title": "Nasi Ayam",
+    "section": "🧡 Final Thoughts",
+    "text": "🧡 Final Thoughts\nNasi Ayam isn’t just a dish — it’s a memory, a hug, and a flavor bomb all in one. Every household has its own twist, so make this your own. And remember: even if the rice is a little mushy or the chicken a bit dry, it’ll still taste better with stories around the table."
   }
 ]

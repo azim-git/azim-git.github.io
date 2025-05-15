@@ -1,9 +1,13 @@
 ---
-title: "About"
+title: "OOP Project"
 ---
 
-About this site
+## Whac-A-Mole
 
-```{r}
-1 + 1
-```
+This project was a collaborative effort undertaken by my group and me during either Trimester 1 or Trimester 2 — I must admit the exact timing escapes me at the moment. It was a well-executed and thoughtfully developed piece of work that we were genuinely proud of. Despite our strong effort and the quality of the final outcome, the project ultimately received a grade of B. While we were slightly disappointed by the result, we still regard it as a valuable learning experience that demonstrated our teamwork and commitment.
+
+---
+
+## Video Presentation
+
+{{< video https://www.youtube.com/watch?v=RhbDjULasvM width="600" height="400" >}}

@@ -1,0 +1,23 @@
+---
+title: "Reflection on the use of GenAI"
+format: html
+---
+# GenAI used
+
+ChatGPT was used for the entire assessment. It is the one I am most familiar in and is competent enough for tasks like these.
+
+# Usage
+
+It helped me to generate the templates which I used to then fill up with the relevant necessary information. I leveraged it to generate for me the perfect Nasi Ayam recipe which I then added on with my own personal anecdotal experiences to spice up the reading experience.
+
+# Benefits
+
+It can quickly deliver personalised content in a readable manner and also generate simple blocks of code that can be copied and pasted into projects seamlessly.
+
+# Challenges
+
+When working on a complex project, GenAI can fail to understand all the nuances of the code and may not deliver working solutions. During some debugging sessions especially, it may just repeat a previously generated message over and over again with no change - not helpful at all.
+
+# Final Thoughts
+
+It is important to be specific and give as much information to the GenAI in use as possible, as only then will they be able to deliver content that is personalised to you. If you are vague and think that it will solve all your problems magically just with a simple prompt, it won't be useful.

@@ -1,11 +1,46 @@
 ---
-title: "personal_website"
+title: "About Me"
+format: html
 ---
 
-This is a Quarto website.
+## 👋 Hello! I'm Azim
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.columns}
+::: {.column width="60%"}
 
-```{r}
-1 + 1
-```
+Welcome to my personal website. I’m passionate about learning, creating, and sharing ideas. Whether I’m exploring data, writing about technology, or building something new, I love bringing curiosity and creativity into everything I do.
+:::
+
+::: {.column width="40%"}
+![Prince Azim of Brunei (Not Me)](imgs/princeazim.jpg){height=20%, width=20%} 
+:::
+:::
+---
+
+## 🌱 What I'm Into
+
+- 📊 Data science, visualization, and storytelling
+- 🧠 Artificial intelligence & how it impacts education
+- 🛠 Building projects with Python, R, or JavaScript
+- ✍️ Writing about what I learn along the way
+
+---
+
+## 🎲 Random Facts About Me
+
+- I **love salty snacks** more than sweets 🍿🧂
+- I’m learning **C programming** for the first time 🔧
+- I once binge-watched the *Titanic* movie just to analyze survival data 🎥
+- I’m always trying to figure out **how things work**, even if it means breaking them first 🤓
+- I have **amber eyes** — yes, really! 🐯
+
+---
+
+## 📬 Get in Touch
+
+Feel free to connect or collaborate — I’m always open to ideas and conversations.
+
+- 📧 Email: azim@google.com
+- 💼 LinkedIn: [Azim](https://sg.linkedin.com/in/azim-rahim)
+- 📂 GitHub: [azim-git](https://github.com/azim-git)
+

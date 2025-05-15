@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "personal_website"
+  title: "Personal Website"
+  favicon: imgs/sit_logo.png
   navbar:
+    logo: imgs/sit_logo.png
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - recipe.qmd
+      - reflection.qmd
 
 format:
   html:
@@ -17,6 +21,8 @@ format:
       - brand
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 
